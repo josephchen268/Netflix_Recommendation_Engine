@@ -1,6 +1,6 @@
 # Netflix_Recommendation_Engine 🎥: Using the data from https://www.kaggle.com/datasets/shivamb/netflix-shows
 
-### This is a group project that I worked on in college. The group was Rachel, Jade, Richard, and me.
+### This is a group project that I worked on. 
 
 - The idea behind this was to recommend similar movies, through collaborative filtering.   
 - First, we would combine all the text in certain categories like "Title", "Cast", "Rating", and more.   
