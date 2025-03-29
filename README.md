@@ -1,4 +1,4 @@
-# Netflix_Recommendation_Engine 🎥: Using the data from https://www.kaggle.com/datasets/shivamb/netflix-shows
+# Netflix_Recommendation_Engine 🎥: Using the data from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ### This is a group project that I worked on. 
 
